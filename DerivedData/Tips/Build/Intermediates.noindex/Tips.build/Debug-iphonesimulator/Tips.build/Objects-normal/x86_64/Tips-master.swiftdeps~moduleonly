@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "9df2a9f336a73ec0e11c59357416ca63"
+build_time: [1586732549, 128161000]
+inputs:
+  "/Users/anton/Documents - Anton\u2019s MacBook Pro/Tips/Tips/AppDelegate.swift": [1586732496, 769324459]
+  "/Users/anton/Documents - Anton\u2019s MacBook Pro/Tips/Tips/MainView.swift": [9223372036, 854775807]
+  "/Users/anton/Documents - Anton\u2019s MacBook Pro/Tips/Tips/SceneDelegate.swift": [1586732496, 779530412]
+  "/Users/anton/Documents - Anton\u2019s MacBook Pro/Tips/Tips/ContentView.swift": [1586732496, 782309421]
